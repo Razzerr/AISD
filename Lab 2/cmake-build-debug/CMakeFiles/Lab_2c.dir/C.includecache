@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Studia/Semestr 4/AIDS/Lab 2c/Zad 1/main.c
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+C:/Studia/Semestr 4/AIDS/Lab 2c/Zad 2/main.c
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+C:/Studia/Semestr 4/AIDS/Lab 2c/Zad 3/main.c
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+C:/Studia/Semestr 4/AIDS/Lab 2c/Zad 4/main.c
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+C:/Studia/Semestr 4/AIDS/Lab 2c/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+

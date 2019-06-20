@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.pro": "prolog",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Enabled"
+}

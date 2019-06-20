@@ -1,0 +1,3 @@
+C:/Studia/Semestr 4/AIDS/Lab 3/cmake-build-debug/CMakeFiles/Lab_3.dir
+C:/Studia/Semestr 4/AIDS/Lab 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Studia/Semestr 4/AIDS/Lab 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
